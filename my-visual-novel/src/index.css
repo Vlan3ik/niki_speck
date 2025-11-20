@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Стили react-visual-novel */
+@import 'react-visual-novel/dist/index.css';
