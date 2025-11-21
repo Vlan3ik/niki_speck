@@ -1,0 +1,927 @@
+C:\Users\user\Documents\GitHub\niki_speck\.vscode
+C:\Users\user\Documents\GitHub\niki_speck\.vscode\settings.json
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\.gitignore
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\errors.txt
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\00_init.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio\backgroundMusic.mp3
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio\kein_smeh.mp3
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio\strahmusic.mp3
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\bytecode-312.rpyb
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\py3analysis.rpyb
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\screens.rpyb
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\shaders.txt
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\gui.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\belarus
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\belarus\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\dorm_room_morning.jpg
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\erotic.png
+    └── [PNG изображение] erotic.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\grus.png
+    └── [PNG изображение] grus.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\ispug.png
+    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\love.png
+    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\pohot.png
+    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\smeh.png
+    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\zloy.png
+    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kiselman
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kiselman\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\logo.png
+    └── [PNG изображение] logo.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\menu_bg.png
+    └── [PNG изображение] menu_bg.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\grust.png
+    └── [PNG изображение] grust.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\ispug.png
+    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\love.png
+    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\pohot.png
+    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\smeh.png
+    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\zloy.png
+    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\rolya
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\rolya\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\spek_courtyard_morning.jpg
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\spek_stairs.jpg
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\init.rpy
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\init.rpy — содержимое:
+define config.gl2 = True
+
+transform center_pos:
+    xalign 0.5 yalign 1.0
+transform left_pos:
+    xalign 0.25 yalign 1.0
+transform right_pos:
+    xalign 0.75 yalign 1.0
+
+define k  = DynamicCharacter('k_name',  image='kein',   color="#8a2be2")
+define n  = DynamicCharacter('n_name',  image='nikita', color="#ffff00")
+define b  = DynamicCharacter('b_name',  image='belarus', color="#ff5555")
+define ki = DynamicCharacter('ki_name', image='kiselman', color="#55aaee")
+define r  = DynamicCharacter('r_name',  image='rolya', color="#ffaa33")
+
+init python:
+    k_name  = "Кейн"
+    n_name  = "Никита"
+    b_name  = "Беларус"
+    ki_name = "Кисельман"
+    r_name  = "Роля"
+
+image nikita normal = "images/nikita/normal.png"
+image nikita love   = "images/nikita/love.png"
+image nikita ispug  = "images/nikita/ispug.png"
+image nikita grust  = "images/nikita/grust.png"
+image nikita smeh   = "images/nikita/smeh.png"
+image nikita zloy   = "images/nikita/zloy.png"
+image nikita pohot  = "images/nikita/pohot.png"
+
+image kein normal  = "images/kein/normal.png"
+image kein love    = "images/kein/love.png"
+image kein ispug   = "images/kein/ispug.png"
+image kein grus    = "images/kein/grus.png"
+image kein smeh    = "images/kein/smeh.png"
+image kein zloy    = "images/kein/zloy.png"
+image kein pohot   = "images/kein/pohot.png"
+image kein erotic  = "images/kein/erotic.png"
+
+image belarus normal  = "images/belarus/normal.png"
+image kiselman = "images/kiselman/normal.png"
+image rolya normal = "images/rolya/normal.png"
+
+image bg menu:
+    "images/menu_bg.png"
+    fit "cover"
+image bg dorm_room_morning:
+    "images/dorm_room_morning.jpg"
+    fit "cover"
+image bg spek_courtyard_morning:
+    "images/spek_courtyard_morning.jpg"
+    fit "cover"
+image bg spek_stairs:
+    "images/spek_stairs.jpg"
+    fit "cover"
+
+
+image bg black = Solid("#000000")
+image logo = im.FactorScale("images/logo.png", 0.8)
+
+define audio.bgm = "audio/backgroundMusic.mp3"
+define audio.kein_laugh = "audio/kein_smeh.mp3"     
+define audio.kein_theme = "audio/strahmusic.mp3"
+
+init python:
+    config.main_menu_music = audio.bgm
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\init.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\libs
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\libs\libs.txt
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\menu.rpy
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\menu.rpy — содержимое:
+screen main_menu():
+    tag menu
+    add "bg menu"
+    add "logo" xpos 0.5 ypos 0.2 anchor (0.5, 0.5)
+
+    vbox xpos 0.5 ypos 0.6 anchor (0.5, 0.5) spacing 30:
+        textbutton "Новая игра" action Start() text_size 48
+        textbutton "Загрузить"   action ShowMenu("load") text_size 48
+        textbutton "Настройки"  action ShowMenu("preferences") text_size 48
+        textbutton "Выход"      action Quit(confirm=False) text_size 48
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\menu.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\options.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\1-1-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-1-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-10-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-2-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-7-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-8-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-9-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-1-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-10-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-2-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-3-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-4-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-5-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-6-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-7-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-8-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-9-LT1.save
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\navigation.json
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\persistent
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\intro.rpy
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\intro.rpy — содержимое:
+label scene_intro:
+    scene black with fade
+    pause 1.0
+    "Добро пожаловать в визуальную новеллу"
+    centered "НИКИТА V СПЕК"
+
+    scene bg menu with dissolve
+    show logo at truecenter with dissolve
+    pause 2.5
+    hide logo with dissolve
+    pause 0.5
+    return
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\intro.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy — содержимое:
+label scene_day1:
+    scene bg black with fade
+    play music audio.bgm fadein 2.0
+
+    scene bg dorm_room_morning with dissolve
+
+    "Утро. 7:42. Будильник орёт «Мурку» на всю общагу."
+
+    show nikita normal at center_pos with dissolve
+    n grust "Бл… опять проспал…"
+    n grust "Демоэкзамен в 9:00, а я ещё в кровати…"
+
+    "Пытаюсь встать — нога цепляется за провод. Лечу мордой в тапок Роли."
+
+    show nikita ispug at center_pos with vpunch
+    n ispug "ФУУУУУУУУУУУУУУУУУУУУ!!!"
+
+    show nikita zloy at center_pos
+    show rolya normal at left_pos with moveinleft
+
+    r "Доброе утро, товарищ! Чё орёшь, как империалист на митинге?"
+
+    n zloy "Роля, сука… Ты опять в 7 утра картошку с говном жрёшь?!"
+
+    menu rolya_potato:
+        "Спокойно спросить, что внутри":
+            n normal "Роль… это что за картошечка такая красивая?"
+            r "Экспроприировал вчера в столовке. С мясом, говорят."
+            n ispug "…Роля."
+            r "Чё?"
+            n zloy "ТАМ НЕ МЯСО, ТАМ ГАВНО, ИДИОТ!!!"
+            r "Ну… белок же. Органика."
+
+        "Взорваться сразу":
+            n zloy "ТЫ ЕБУЧИЙ ПИДОРАС, РОЛЯ!!! ТЫ ОПЯТЬ ГОВНО ЖРЁШЬ!!!"
+            r normal "Никита, гомофобия — пережиток капитализма."
+            n zloy "А ГОВНО В ТВОЁМ РТУ — ЭТО ПЕРЕЖИТОК КОММУНИЗМА!!!"
+            r "Маркс тоже ел всё подряд."
+            n zloy "МАРКС НЕ ЖРАЛ КАКАШКИ ИЗ УНИТАЗА, ЛЫСЫЙ ДЕБИЛ!!!"
+
+        "Молча уйти":
+            n grust "…"
+            r "Чё молчишь?"
+            n grust "Считаю, сколько мне ещё терпеть тебя в одной комнате…"
+
+    hide rolya with moveoutleft
+    n normal "Ладно, побежал. Демоэкзамен сам себя не сдаст."
+
+    scene bg spek_courtyard_morning with dissolve
+
+    "Ноябрь. Холод, сырость, вороны, бабки с семками. Классика Спека."
+
+    show nikita normal at center_pos
+    n "Иду я, Никита, сын React и шансона, по асфальту, где когда-то ступали легенды… а теперь Кейн в своём чёрном худи мнит себя богом."
+
+    show belarus normal at right_pos with moveinright
+    b "Жжжыве… ик… Беларусь!"
+
+    show nikita ispug
+    n "Змагар, ты с утра уже в говно…"
+    b "Я… ик… новый рецепт… картошка + йод + любовь к родине…"
+    n grust "Понял. Иди спать, герой."
+
+    b "Не… я тебя… ик… провожу… там Кейн… ик… сказал, что Vue.js… ик… в жопу тебе засунет…"
+    n zloy "Спасибо за спойлер, брат."
+
+    hide belarus with moveoutright
+
+    scene bg spek_stairs with dissolve
+
+    "Поднимаюсь на 4-й этаж. Лестница воняет сигаретами и безысходностью. На стенах: «Кейн = бог», «React для лохов»."
+
+    n normal "Аудитория 404… как символично, сука."
+
+    # ─────── ПОЯВЛЕНИЕ КЕЙНА — МАКСИМУМ ДРАМЫ ───────
+    stop music fadeout 1.5
+    play sound audio.kein_laugh volume 0.9           # страшный смех
+    pause 1.0
+    play music audio.kein_theme fadein 1.5        # включаем strahmusic.mp3
+
+    "Сверху раздаётся этот мерзкий, леденящий душу голос:"
+
+    k "О-о-о… кого я вижу. Жёлтая футболка с миньоном… собственной персоной."
+
+    scene bg black with hpunch
+    pause 0.6
+
+    show kein pohot at center_pos with dissolve:
+        zoom 1.5 yoffset 300
+        linear 0.8 zoom 1.3 yoffset 200
+
+    k pohot "Никита…"
+    k erotic "Как же долго… я ждал этой встречи."
+    k smeh "Сегодня ты наконец узнаешь…"
+    k erotic "…что такое настоящий framework."
+
+    show nikita zloy at center_pos with moveinright
+    n zloy "…"
+
+    k normal "Демоэкзамен начинается через семь минут."
+    k smeh "И ты его… не сдашь."
+
+    scene bg black with dissolve
+    centered "{size=+20}{color=#8a2be2}Продолжение следует...{/color}{/size}"
+
+    return
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_first.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\test_scene.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\screens.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\script.rpy
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\script.rpy — содержимое:
+﻿label start:
+    call scene_intro
+    call scene_day1     
+    "Конец первой главы.\nГотовьтесь — дальше будет мясо, Vue.js в неожиданных местах и полный пиздец ;)\n\nВаши идеи в тг @nikita_spek"
+    return
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\script.rpyc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\structure.py
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\structure.py — содержимое:
+import os
+import shutil
+
+# === ФАЙЛЫ И ПАПКИ, КОТОРЫЕ НАДО ПОЛНОСТЬЮ ИГНОРИРОВАТЬ ===
+IGNORED_DIRS = {'gui'}  # любые папки с именем "gui" на любом уровне
+IGNORED_FILES = {'options.rpy', 'screens.rpy', "gui.rpy"}  # точные имена файлов
+
+
+def remove_pycache(root_dir):
+    """Удаляет все __pycache__ папки"""
+    for root, dirs, files in os.walk(root_dir, topdown=True):
+        if '__pycache__' in dirs:
+            cache_path = os.path.join(root, '__pycache__')
+            shutil.rmtree(cache_path)
+            print(f"Удалено: {cache_path}")
+            dirs.remove('__pycache__')  # чтобы os.walk не заходил внутрь
+
+
+def should_ignore_path(path):
+    """Проверяет, нужно ли пропустить файл или папку"""
+    filename = os.path.basename(path)
+    filename = os.path.basename(path)
+    parent_dir = os.path.basename(os.path.dirname(path))
+
+    # Игнорируем папки gui и всё внутри них
+    if parent_dir in IGNORED_DIRS or filename in IGNORED_DIRS:
+        return True
+    # Игнорируем конкретные файлы по имени в любой папке
+    if filename in IGNORED_FILES:
+        return True
+    return False
+
+
+def save_structure(root_dir, output_file):
+    with open(output_file, 'w', encoding='utf-8') as f:
+        _walk_and_save(root_dir, f, "")
+
+
+def _walk_and_save(current_path, file_handle, prefix):
+    """Рекурсивно обходит директории с нужной фильтрацией"""
+    try:
+        items = os.listdir(current_path)
+    except PermissionError:
+        return
+
+    # Сортируем для стабильного порядка
+    items.sort()
+
+    for item in items:
+        item_path = os.path.join(current_path, item)
+
+        # Полное игнорирование запрещённых путей
+        if should_ignore_path(item_path):
+            print(f"Пропущено (игнор): {item_path}")
+            continue
+
+        # Пропускаем .git
+        if item == '.git':
+            continue
+
+        # Всегда пишем путь в структуру (кроме игнорируемых)
+        file_handle.write(f"{item_path}\n")
+
+        if os.path.isdir(item_path):
+            _walk_and_save(item_path, file_handle, prefix + "    ")
+        else:
+            # Обрабатываем только нужные типы файлов
+            if item.endswith(('.py', '.rpy', '.html', '.css', "md")):
+                save_content(item_path, file_handle)
+            elif item.endswith('.png'):
+                file_handle.write(f"    └── [PNG изображение] {item} (бинарный файл, содержимое не копируется)\n")
+
+
+def save_content(file_path, output_file):
+    """Сохраняет содержимое текстового файла (.py, .rpy и т.д.)"""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+        output_file.write(f"\n{file_path} — содержимое:\n")
+        output_file.write(content)
+        output_file.write("\n\n" + "="*80 + "\n\n")
+    except UnicodeDecodeError:
+        output_file.write(f"\n{file_path} — содержимое: (не удалось прочитать как текст, возможно бинарник)\n\n")
+    except Exception as e:
+        output_file.write(f"\n{file_path} — ошибка чтения: {e}\n\n")
+
+
+# === ЗАПУСК ===
+if __name__ == "__main__":
+    root_directory = r'C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke'
+    
+    print("Удаляем __pycache__...")
+    remove_pycache(root_directory)
+    
+    output_file_path = os.path.join(root_directory, 'project_structure.txt')
+    
+    print("Сканируем проект (с фильтрами)...")
+    save_structure(root_directory, output_file_path)
+    
+    print(f"\nГотово! Структура сохранена в:\n{output_file_path}")
+    print("Игнорировались: папки gui, options.rpy, screens.rpy")
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl\None
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl\None\common.rpym
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl\None\common.rpymc
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\log.txt
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\lore.md
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\lore.md — содержимое:
+
+### Промпт для визуальной новеллы «Никита V Спеке»
+
+**Место действия:**
+- **СмолАРО (Спек)** — Смоленская академия радиоэлектроники и оборонных технологий. Колледж/академия, где учатся программисты, хакеры, юристы и будущие сотрудники МЧС. Типичная общага, аудитории, подвалы, заброшенные корпуса.
+- **Zyfra (Цифра)** — таинственный закрытый индустриальный городок, где студенты проходят производственную практику. Похож на Backrooms: бесконечные одинаковые коридоры, жёлтые обои, гудение ламп, ощущение неправильности реальности. Очень опасное место для психики. Здесь обитают:
+  - Легендарный программист **Влад Перфекционист** — «львиная личность», идеальный кодер, почти мифическая фигура.
+  - Магический дух **Михаил Юрьевич «Интерполяция»** — полупрозрачный призрак в старом свитере, постоянно следует за людьми и шепчет/кричит «Ну подумай…».
+
+**Главные персонажи:**
+
+1. **Никита (главный герой, протагонист)**  
+   Обычный студент-программист. Носит жёлтую футболку с миньоном. Влюблён в Аню, но она ушла к Кейну Журавлёву. Любит шансон (особенно «Владимирский централ»), React и фронтенд. Добрый, немного наивный, но упрямый.
+
+2. **Кейн Журавлёв (главный антагонист)**  
+   Тёмный бог теневого клана, амбициозный злодей. Хочет подчинить весь факультет ИТ, стать деканом и богом Спека. Харизматичный, расчётливый, носит чёрный худи и цепь с кулоном в виде логотипа Vue.js (хотя ненавидит его).
+
+3. **Сергей Парчевский**  
+   Правая рука и «шестёрка» Кейна. Работает депутатом, параллельно в РЖД и SMM-щиком в «Галамарте». Выполняет всю грязную работу: распространяет слухи, взламывает журналы, подкупает преподов.
+
+4. **Роля Кябинин**  
+   Сосед Никиты по общаге. Внешне один в один Ленин (лысина, бородка). Юрист, убеждённый коммунист. Постоянно цитирует Маркса и предлагает «экспроприировать» столовку.
+
+5. **Кисельман Михаил Владимирович**  
+   Преподаватель в СмолАРО. В прошлом — легендарный хакер и мужская модель (прямая отсылка к Бену Стиллеру из Zoolander). Сейчас якобы «завязал», но огонь в глазах остался. Учит этичному хакированию и позированию.
+
+6. **Беларус Змагар**  
+   Лучший друг Никиты. Белорусский патриот («змагар»). Живёт в подвалах Спека. На груди огромная татуировка петуха. Всегда готов помочь, приносит самогон и моральную поддержку.
+
+**Дополнительно:**
+- Аня — девушка, из-за которой весь конфликт. Ушла от Никиты к Кейну.
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\progressive_download.txt
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\project_structure.txt
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\traceback.txt
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio\backgroundMusic.mp3
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio\kein_smeh.mp3
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio\strahmusic.mp3
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\belarus
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\belarus\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\dorm_room_morning.jpg
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\erotic.png
+    └── [PNG изображение] erotic.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\grus.png
+    └── [PNG изображение] grus.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\ispug.png
+    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\love.png
+    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\pohot.png
+    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\smeh.png
+    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\zloy.png
+    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kiselman
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kiselman\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\logo.png
+    └── [PNG изображение] logo.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\menu_bg.png
+    └── [PNG изображение] menu_bg.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\grust.png
+    └── [PNG изображение] grust.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\ispug.png
+    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\love.png
+    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\pohot.png
+    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\smeh.png
+    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\zloy.png
+    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\rolya
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\rolya\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\spek_courtyard_morning.jpg
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\spek_stairs.jpg
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game.zip
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-128x128-maskable.png
+    └── [PNG изображение] icon-128x128-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-128x128.png
+    └── [PNG изображение] icon-128x128.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-144x144-maskable.png
+    └── [PNG изображение] icon-144x144-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-144x144.png
+    └── [PNG изображение] icon-144x144.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-152x152-maskable.png
+    └── [PNG изображение] icon-152x152-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-152x152.png
+    └── [PNG изображение] icon-152x152.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-192x192-maskable.png
+    └── [PNG изображение] icon-192x192-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-192x192.png
+    └── [PNG изображение] icon-192x192.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-384x384-maskable.png
+    └── [PNG изображение] icon-384x384-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-384x384.png
+    └── [PNG изображение] icon-384x384.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-512x512-maskable.png
+    └── [PNG изображение] icon-512x512-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-512x512.png
+    └── [PNG изображение] icon-512x512.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-72x72-maskable.png
+    └── [PNG изображение] icon-72x72-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-72x72.png
+    └── [PNG изображение] icon-72x72.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-96x96-maskable.png
+    └── [PNG изображение] icon-96x96-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-96x96.png
+    └── [PNG изображение] icon-96x96.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\index.html
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\index.html — содержимое:
+<!doctype html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>nikitaVspeke</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="manifest" href="manifest.json" crossorigin="use-credentials" />
+  <link rel="icon" href="icons/icon-72x72.png" sizes="72x72" type="image/png" />
+  <link rel="icon" href="icons/icon-96x96.png" sizes="96x96" type="image/png" />
+  <link rel="icon" href="icons/icon-128x128.png" sizes="128x128" type="image/png" />
+  <link rel="icon" href="icons/icon-144x144.png" sizes="144x144" type="image/png" />
+  <link rel="icon" href="icons/icon-152x152.png" sizes="152x152" type="image/png" />
+  <link rel="icon" href="icons/icon-192x192.png" sizes="192x192" type="image/png" />
+  <link rel="icon" href="icons/icon-384x384.png" sizes="384x384" type="image/png" />
+  <link rel="icon" href="icons/icon-512x512.png" sizes="512x512" type="image/png" />
+  <!-- ios support -->
+  <link rel="apple-touch-icon" href="icons/icon-72x72.png" sizes="72x72" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-96x96.png" sizes="96x96" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-128x128.png" sizes="128x128" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-144x144.png" sizes="144x144" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-152x152.png" sizes="152x152" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-192x192.png" sizes="192x192" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-384x384.png" sizes="384x384" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-512x512.png" sizes="512x512" type="image/png" />
+
+  <meta name="theme-color" content="#000" />
+
+  <style>
+    html {
+      background: #444;
+      font-family: sans-serif;
+    }
+
+    body, html {
+      overscroll-behavior: none;
+    }
+
+    #canvas, #overlayDiv {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+
+      width: 100%;
+      height: 100%;
+
+      border: 0 none;
+    }
+
+    #canvas {
+      background: #000;
+    }
+
+    .visible {
+      visibility: visible;
+      opacity: 1.0;
+      transition: opacity .1s linear;
+    }
+
+    .hidden {
+      visibility: hidden;
+      opacity: 0;
+      transition: visibility 0s .25s, opacity .25s linear;
+    }
+
+    #statusDiv, #inputDiv {
+      background: rgba(0, 0, 0, 0.75);
+      width: 50%;
+      margin: auto;
+      min-width: 340px;
+      padding: 10px;
+
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+
+      border-radius: 0 0 5px 5px;
+    }
+
+    #statusTextDiv {
+      overflow: auto;
+      max-height: 40vh;
+      color: #ccc;
+      font-size: 14px;
+    }
+
+    #statusProgress {
+      display: none;
+      width: 100%;
+    }
+
+    #inputDiv {
+      width: 65%;
+      padding-left: 10px;
+      padding-right: 20px;
+    }
+
+    #inputPrompt {
+      color: #eee;
+      font-size: 150%;
+      margin-bottom: 1em;
+      margin-top: 1em;
+
+    }
+
+    #inputText {
+      width: 100%;
+      font-size: 175%;
+      padding: 5px;
+      background: inherit;
+      color: #eee;
+    }
+
+    #inputText:focus {
+      color: #ffffff;
+    }
+
+    #ContextContainer {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      color: white;
+    }
+
+    #ContextContainer.shown {
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 0px 0px 5px 0px;
+    }
+
+    #ContextButton {
+      text-decoration: none;
+      color: lightgrey;
+      font-size: xx-large;
+      cursor: pointer;
+      user-select: none;
+      -moz-user-select: none;
+      padding: 10px 10px;
+      opacity: .75;
+    }
+
+    #ContextButton:focus {
+      outline: none;
+      color: #ffffff;
+      opacity: 1.0;
+    }
+
+    #ContextMenu a {
+      text-decoration: none;
+      color: lightgrey;
+      background: #444;
+      height: 48px;
+      width: 250px;
+      border-radius: 5px;
+      border: 1px solid lightgrey;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 5px 5px;
+      opacity: 1.0;
+    }
+
+    #ContextMenu a:hover {
+      text-decoration: none;
+      background: #666666;
+      color: #ffffff
+    }
+
+    #presplash {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <canvas id="canvas" oncontextmenu="event.preventDefault()" tabindex=-1></canvas>
+  <div id="overlayDiv"></div>
+
+  <img id="presplash" src="web-presplash.jpg">
+
+  <div id="ContextContainer">
+    <a id="ContextButton">&#8801;</a><br />
+    <div id="ContextMenu" style="display: none;">
+      <input id="ID_SavegamesImport" type="file" onchange="onSavegamesImport(this)" accept="application/zip"
+        style=display:none></input>
+      <a href="javascript:document.getElementById('ID_SavegamesImport').click();">Import Saves</a>
+      <a href="javascript:onSavegamesExport();">Export Saves</a>
+      <a href="javascript:FSDownload('/log.txt', 'text/plain');">Download Log</a>
+      <a href="https://www.renpy.org/" target="_blank">
+          Powered by Ren'Py
+      </a>
+      </span>
+    </div>
+  </div>
+
+  <div id="statusDiv" class="hidden">
+    <div id="statusTextDiv"></div>
+    <progress id="statusProgress" value="0" max="100"></progress>
+  </div>
+
+  <div id="inputDiv" class="hidden">
+    <form id="inputForm">
+      <div id="inputPrompt"></div>
+      <input id="inputText" type="text">
+    </form>
+  </div>
+
+  <script>
+      // The URL to game.zip, relative to the URL of this file.
+      window.gameZipURL = 'game.zip';
+
+      // Register the service worker.
+      if (navigator.serviceWorker) {
+          if (!navigator.serviceWorker.controller) {
+              navigator.serviceWorker.register('./service-worker.js', { updateViaCache: 'all' });
+          }
+      }
+  </script>
+  <script src="renpy-pre.js"></script>
+  <script async type="text/javascript" src="renpy.js"></script>
+</body>
+
+</html>
+
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\index.html.symbols
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\manifest.json
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\pwa_catalog.json
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy-pre.js
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy.data
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy.js
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy.wasm
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\service-worker.js
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\web-presplash.jpg
+C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web.zip
+C:\Users\user\Documents\GitHub\niki_speck\project_structure.txt
+C:\Users\user\Documents\GitHub\niki_speck\structure.py
+
+C:\Users\user\Documents\GitHub\niki_speck\structure.py — содержимое:
+import os
+import shutil
+
+# === ФАЙЛЫ И ПАПКИ, КОТОРЫЕ НАДО ПОЛНОСТЬЮ ИГНОРИРОВАТЬ ===
+IGNORED_DIRS = {'gui'}  # любые папки с именем "gui" на любом уровне
+IGNORED_FILES = {'options.rpy', 'screens.rpy', "gui.rpy"}  # точные имена файлов
+
+
+def remove_pycache(root_dir):
+    """Удаляет все __pycache__ папки"""
+    for root, dirs, files in os.walk(root_dir, topdown=True):
+        if '__pycache__' in dirs:
+            cache_path = os.path.join(root, '__pycache__')
+            shutil.rmtree(cache_path)
+            print(f"Удалено: {cache_path}")
+            dirs.remove('__pycache__')  # чтобы os.walk не заходил внутрь
+
+
+def should_ignore_path(path):
+    """Проверяет, нужно ли пропустить файл или папку"""
+    filename = os.path.basename(path)
+    filename = os.path.basename(path)
+    parent_dir = os.path.basename(os.path.dirname(path))
+
+    # Игнорируем папки gui и всё внутри них
+    if parent_dir in IGNORED_DIRS or filename in IGNORED_DIRS:
+        return True
+    # Игнорируем конкретные файлы по имени в любой папке
+    if filename in IGNORED_FILES:
+        return True
+    return False
+
+
+def save_structure(root_dir, output_file):
+    with open(output_file, 'w', encoding='utf-8') as f:
+        _walk_and_save(root_dir, f, "")
+
+
+def _walk_and_save(current_path, file_handle, prefix):
+    """Рекурсивно обходит директории с нужной фильтрацией"""
+    try:
+        items = os.listdir(current_path)
+    except PermissionError:
+        return
+
+    # Сортируем для стабильного порядка
+    items.sort()
+
+    for item in items:
+        item_path = os.path.join(current_path, item)
+
+        # Полное игнорирование запрещённых путей
+        if should_ignore_path(item_path):
+            print(f"Пропущено (игнор): {item_path}")
+            continue
+
+        # Пропускаем .git
+        if item == '.git':
+            continue
+
+        # Всегда пишем путь в структуру (кроме игнорируемых)
+        file_handle.write(f"{item_path}\n")
+
+        if os.path.isdir(item_path):
+            _walk_and_save(item_path, file_handle, prefix + "    ")
+        else:
+            # Обрабатываем только нужные типы файлов
+            if item.endswith(('.py', '.rpy', '.html', '.css', "md")):
+                save_content(item_path, file_handle)
+            elif item.endswith('.png'):
+                file_handle.write(f"    └── [PNG изображение] {item} (бинарный файл, содержимое не копируется)\n")
+
+
+def save_content(file_path, output_file):
+    """Сохраняет содержимое текстового файла (.py, .rpy и т.д.)"""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+        output_file.write(f"\n{file_path} — содержимое:\n")
+        output_file.write(content)
+        output_file.write("\n\n" + "="*80 + "\n\n")
+    except UnicodeDecodeError:
+        output_file.write(f"\n{file_path} — содержимое: (не удалось прочитать как текст, возможно бинарник)\n\n")
+    except Exception as e:
+        output_file.write(f"\n{file_path} — ошибка чтения: {e}\n\n")
+
+
+# === ЗАПУСК ===
+if __name__ == "__main__":
+    root_directory = r'C:\Users\user\Documents\GitHub\niki_speck'
+    
+    print("Удаляем __pycache__...")
+    remove_pycache(root_directory)
+    
+    output_file_path = os.path.join(root_directory, 'project_structure.txt')
+    
+    print("Сканируем проект (с фильтрами)...")
+    save_structure(root_directory, output_file_path)
+    
+    print(f"\nГотово! Структура сохранена в:\n{output_file_path}")
+    print("Игнорировались: папки gui, options.rpy, screens.rpy")
+
+================================================================================
+
