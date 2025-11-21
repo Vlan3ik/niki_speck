@@ -1,5 +1,339 @@
+C:\Users\user\Documents\GitHub\niki_speck\.github
+C:\Users\user\Documents\GitHub\niki_speck\.github\workflows
+C:\Users\user\Documents\GitHub\niki_speck\.github\workflows\RenPY
+C:\Users\user\Documents\GitHub\niki_speck\.github\workflows\deploy-web
 C:\Users\user\Documents\GitHub\niki_speck\.vscode
 C:\Users\user\Documents\GitHub\niki_speck\.vscode\settings.json
+C:\Users\user\Documents\GitHub\niki_speck\game
+C:\Users\user\Documents\GitHub\niki_speck\game\audio
+C:\Users\user\Documents\GitHub\niki_speck\game\audio\backgroundMusic.mp3
+C:\Users\user\Documents\GitHub\niki_speck\game\audio\kein_smeh.mp3
+C:\Users\user\Documents\GitHub\niki_speck\game\audio\strahmusic.mp3
+C:\Users\user\Documents\GitHub\niki_speck\game\images
+C:\Users\user\Documents\GitHub\niki_speck\game\images\belarus
+C:\Users\user\Documents\GitHub\niki_speck\game\images\belarus\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\dorm_room_morning.jpg
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\erotic.png
+    └── [PNG изображение] erotic.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\grus.png
+    └── [PNG изображение] grus.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\ispug.png
+    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\love.png
+    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\pohot.png
+    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\smeh.png
+    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kein\zloy.png
+    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kiselman
+C:\Users\user\Documents\GitHub\niki_speck\game\images\kiselman\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\logo.png
+    └── [PNG изображение] logo.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\menu_bg.png
+    └── [PNG изображение] menu_bg.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita\grust.png
+    └── [PNG изображение] grust.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita\ispug.png
+    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita\love.png
+    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita\pohot.png
+    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita\smeh.png
+    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\nikita\zloy.png
+    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\rolya
+C:\Users\user\Documents\GitHub\niki_speck\game\images\rolya\normal.png
+    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\game\images\spek_courtyard_morning.jpg
+C:\Users\user\Documents\GitHub\niki_speck\game\images\spek_stairs.jpg
+C:\Users\user\Documents\GitHub\niki_speck\game.zip
+C:\Users\user\Documents\GitHub\niki_speck\icons
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-128x128-maskable.png
+    └── [PNG изображение] icon-128x128-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-128x128.png
+    └── [PNG изображение] icon-128x128.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-144x144-maskable.png
+    └── [PNG изображение] icon-144x144-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-144x144.png
+    └── [PNG изображение] icon-144x144.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-152x152-maskable.png
+    └── [PNG изображение] icon-152x152-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-152x152.png
+    └── [PNG изображение] icon-152x152.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-192x192-maskable.png
+    └── [PNG изображение] icon-192x192-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-192x192.png
+    └── [PNG изображение] icon-192x192.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-384x384-maskable.png
+    └── [PNG изображение] icon-384x384-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-384x384.png
+    └── [PNG изображение] icon-384x384.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-512x512-maskable.png
+    └── [PNG изображение] icon-512x512-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-512x512.png
+    └── [PNG изображение] icon-512x512.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-72x72-maskable.png
+    └── [PNG изображение] icon-72x72-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-72x72.png
+    └── [PNG изображение] icon-72x72.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-96x96-maskable.png
+    └── [PNG изображение] icon-96x96-maskable.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\icons\icon-96x96.png
+    └── [PNG изображение] icon-96x96.png (бинарный файл, содержимое не копируется)
+C:\Users\user\Documents\GitHub\niki_speck\index.html
+
+C:\Users\user\Documents\GitHub\niki_speck\index.html — содержимое:
+<!doctype html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>nikitaVspeke</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="manifest" href="manifest.json" crossorigin="use-credentials" />
+  <link rel="icon" href="icons/icon-72x72.png" sizes="72x72" type="image/png" />
+  <link rel="icon" href="icons/icon-96x96.png" sizes="96x96" type="image/png" />
+  <link rel="icon" href="icons/icon-128x128.png" sizes="128x128" type="image/png" />
+  <link rel="icon" href="icons/icon-144x144.png" sizes="144x144" type="image/png" />
+  <link rel="icon" href="icons/icon-152x152.png" sizes="152x152" type="image/png" />
+  <link rel="icon" href="icons/icon-192x192.png" sizes="192x192" type="image/png" />
+  <link rel="icon" href="icons/icon-384x384.png" sizes="384x384" type="image/png" />
+  <link rel="icon" href="icons/icon-512x512.png" sizes="512x512" type="image/png" />
+  <!-- ios support -->
+  <link rel="apple-touch-icon" href="icons/icon-72x72.png" sizes="72x72" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-96x96.png" sizes="96x96" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-128x128.png" sizes="128x128" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-144x144.png" sizes="144x144" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-152x152.png" sizes="152x152" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-192x192.png" sizes="192x192" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-384x384.png" sizes="384x384" type="image/png" />
+  <link rel="apple-touch-icon" href="icons/icon-512x512.png" sizes="512x512" type="image/png" />
+
+  <meta name="theme-color" content="#000" />
+
+  <style>
+    html {
+      background: #444;
+      font-family: sans-serif;
+    }
+
+    body, html {
+      overscroll-behavior: none;
+    }
+
+    #canvas, #overlayDiv {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+
+      width: 100%;
+      height: 100%;
+
+      border: 0 none;
+    }
+
+    #canvas {
+      background: #000;
+    }
+
+    .visible {
+      visibility: visible;
+      opacity: 1.0;
+      transition: opacity .1s linear;
+    }
+
+    .hidden {
+      visibility: hidden;
+      opacity: 0;
+      transition: visibility 0s .25s, opacity .25s linear;
+    }
+
+    #statusDiv, #inputDiv {
+      background: rgba(0, 0, 0, 0.75);
+      width: 50%;
+      margin: auto;
+      min-width: 340px;
+      padding: 10px;
+
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+
+      border-radius: 0 0 5px 5px;
+    }
+
+    #statusTextDiv {
+      overflow: auto;
+      max-height: 40vh;
+      color: #ccc;
+      font-size: 14px;
+    }
+
+    #statusProgress {
+      display: none;
+      width: 100%;
+    }
+
+    #inputDiv {
+      width: 65%;
+      padding-left: 10px;
+      padding-right: 20px;
+    }
+
+    #inputPrompt {
+      color: #eee;
+      font-size: 150%;
+      margin-bottom: 1em;
+      margin-top: 1em;
+
+    }
+
+    #inputText {
+      width: 100%;
+      font-size: 175%;
+      padding: 5px;
+      background: inherit;
+      color: #eee;
+    }
+
+    #inputText:focus {
+      color: #ffffff;
+    }
+
+    #ContextContainer {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      color: white;
+    }
+
+    #ContextContainer.shown {
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 0px 0px 5px 0px;
+    }
+
+    #ContextButton {
+      text-decoration: none;
+      color: lightgrey;
+      font-size: xx-large;
+      cursor: pointer;
+      user-select: none;
+      -moz-user-select: none;
+      padding: 10px 10px;
+      opacity: .75;
+    }
+
+    #ContextButton:focus {
+      outline: none;
+      color: #ffffff;
+      opacity: 1.0;
+    }
+
+    #ContextMenu a {
+      text-decoration: none;
+      color: lightgrey;
+      background: #444;
+      height: 48px;
+      width: 250px;
+      border-radius: 5px;
+      border: 1px solid lightgrey;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 5px 5px;
+      opacity: 1.0;
+    }
+
+    #ContextMenu a:hover {
+      text-decoration: none;
+      background: #666666;
+      color: #ffffff
+    }
+
+    #presplash {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <canvas id="canvas" oncontextmenu="event.preventDefault()" tabindex=-1></canvas>
+  <div id="overlayDiv"></div>
+
+  <img id="presplash" src="web-presplash.jpg">
+
+  <div id="ContextContainer">
+    <a id="ContextButton">&#8801;</a><br />
+    <div id="ContextMenu" style="display: none;">
+      <input id="ID_SavegamesImport" type="file" onchange="onSavegamesImport(this)" accept="application/zip"
+        style=display:none></input>
+      <a href="javascript:document.getElementById('ID_SavegamesImport').click();">Import Saves</a>
+      <a href="javascript:onSavegamesExport();">Export Saves</a>
+      <a href="javascript:FSDownload('/log.txt', 'text/plain');">Download Log</a>
+      <a href="https://www.renpy.org/" target="_blank">
+          Powered by Ren'Py
+      </a>
+      </span>
+    </div>
+  </div>
+
+  <div id="statusDiv" class="hidden">
+    <div id="statusTextDiv"></div>
+    <progress id="statusProgress" value="0" max="100"></progress>
+  </div>
+
+  <div id="inputDiv" class="hidden">
+    <form id="inputForm">
+      <div id="inputPrompt"></div>
+      <input id="inputText" type="text">
+    </form>
+  </div>
+
+  <script>
+      // The URL to game.zip, relative to the URL of this file.
+      window.gameZipURL = 'game.zip';
+
+      // Register the service worker.
+      if (navigator.serviceWorker) {
+          if (!navigator.serviceWorker.controller) {
+              navigator.serviceWorker.register('./service-worker.js', { updateViaCache: 'all' });
+          }
+      }
+  </script>
+  <script src="renpy-pre.js"></script>
+  <script async type="text/javascript" src="renpy.js"></script>
+</body>
+
+</html>
+
+
+================================================================================
+
+C:\Users\user\Documents\GitHub\niki_speck\index.html.symbols
+C:\Users\user\Documents\GitHub\niki_speck\manifest.json
 C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke
 C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\.gitignore
 C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\errors.txt
@@ -477,347 +811,13 @@ C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\lore.md — содерж�
 C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\progressive_download.txt
 C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\project_structure.txt
 C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\traceback.txt
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio\backgroundMusic.mp3
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio\kein_smeh.mp3
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\audio\strahmusic.mp3
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\belarus
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\belarus\normal.png
-    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\dorm_room_morning.jpg
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\erotic.png
-    └── [PNG изображение] erotic.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\grus.png
-    └── [PNG изображение] grus.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\ispug.png
-    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\love.png
-    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\normal.png
-    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\pohot.png
-    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\smeh.png
-    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kein\zloy.png
-    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kiselman
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\kiselman\normal.png
-    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\logo.png
-    └── [PNG изображение] logo.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\menu_bg.png
-    └── [PNG изображение] menu_bg.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\grust.png
-    └── [PNG изображение] grust.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\ispug.png
-    └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\love.png
-    └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\normal.png
-    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\pohot.png
-    └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\smeh.png
-    └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\nikita\zloy.png
-    └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\rolya
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\rolya\normal.png
-    └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\spek_courtyard_morning.jpg
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game\images\spek_stairs.jpg
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\game.zip
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-128x128-maskable.png
-    └── [PNG изображение] icon-128x128-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-128x128.png
-    └── [PNG изображение] icon-128x128.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-144x144-maskable.png
-    └── [PNG изображение] icon-144x144-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-144x144.png
-    └── [PNG изображение] icon-144x144.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-152x152-maskable.png
-    └── [PNG изображение] icon-152x152-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-152x152.png
-    └── [PNG изображение] icon-152x152.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-192x192-maskable.png
-    └── [PNG изображение] icon-192x192-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-192x192.png
-    └── [PNG изображение] icon-192x192.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-384x384-maskable.png
-    └── [PNG изображение] icon-384x384-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-384x384.png
-    └── [PNG изображение] icon-384x384.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-512x512-maskable.png
-    └── [PNG изображение] icon-512x512-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-512x512.png
-    └── [PNG изображение] icon-512x512.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-72x72-maskable.png
-    └── [PNG изображение] icon-72x72-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-72x72.png
-    └── [PNG изображение] icon-72x72.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-96x96-maskable.png
-    └── [PNG изображение] icon-96x96-maskable.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\icons\icon-96x96.png
-    └── [PNG изображение] icon-96x96.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\index.html
-
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\index.html — содержимое:
-<!doctype html>
-<html lang="en-us">
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>nikitaVspeke</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="manifest" href="manifest.json" crossorigin="use-credentials" />
-  <link rel="icon" href="icons/icon-72x72.png" sizes="72x72" type="image/png" />
-  <link rel="icon" href="icons/icon-96x96.png" sizes="96x96" type="image/png" />
-  <link rel="icon" href="icons/icon-128x128.png" sizes="128x128" type="image/png" />
-  <link rel="icon" href="icons/icon-144x144.png" sizes="144x144" type="image/png" />
-  <link rel="icon" href="icons/icon-152x152.png" sizes="152x152" type="image/png" />
-  <link rel="icon" href="icons/icon-192x192.png" sizes="192x192" type="image/png" />
-  <link rel="icon" href="icons/icon-384x384.png" sizes="384x384" type="image/png" />
-  <link rel="icon" href="icons/icon-512x512.png" sizes="512x512" type="image/png" />
-  <!-- ios support -->
-  <link rel="apple-touch-icon" href="icons/icon-72x72.png" sizes="72x72" type="image/png" />
-  <link rel="apple-touch-icon" href="icons/icon-96x96.png" sizes="96x96" type="image/png" />
-  <link rel="apple-touch-icon" href="icons/icon-128x128.png" sizes="128x128" type="image/png" />
-  <link rel="apple-touch-icon" href="icons/icon-144x144.png" sizes="144x144" type="image/png" />
-  <link rel="apple-touch-icon" href="icons/icon-152x152.png" sizes="152x152" type="image/png" />
-  <link rel="apple-touch-icon" href="icons/icon-192x192.png" sizes="192x192" type="image/png" />
-  <link rel="apple-touch-icon" href="icons/icon-384x384.png" sizes="384x384" type="image/png" />
-  <link rel="apple-touch-icon" href="icons/icon-512x512.png" sizes="512x512" type="image/png" />
-
-  <meta name="theme-color" content="#000" />
-
-  <style>
-    html {
-      background: #444;
-      font-family: sans-serif;
-    }
-
-    body, html {
-      overscroll-behavior: none;
-    }
-
-    #canvas, #overlayDiv {
-      position: absolute;
-      top: 0px;
-      left: 0px;
-
-      width: 100%;
-      height: 100%;
-
-      border: 0 none;
-    }
-
-    #canvas {
-      background: #000;
-    }
-
-    .visible {
-      visibility: visible;
-      opacity: 1.0;
-      transition: opacity .1s linear;
-    }
-
-    .hidden {
-      visibility: hidden;
-      opacity: 0;
-      transition: visibility 0s .25s, opacity .25s linear;
-    }
-
-    #statusDiv, #inputDiv {
-      background: rgba(0, 0, 0, 0.75);
-      width: 50%;
-      margin: auto;
-      min-width: 340px;
-      padding: 10px;
-
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-
-      border-radius: 0 0 5px 5px;
-    }
-
-    #statusTextDiv {
-      overflow: auto;
-      max-height: 40vh;
-      color: #ccc;
-      font-size: 14px;
-    }
-
-    #statusProgress {
-      display: none;
-      width: 100%;
-    }
-
-    #inputDiv {
-      width: 65%;
-      padding-left: 10px;
-      padding-right: 20px;
-    }
-
-    #inputPrompt {
-      color: #eee;
-      font-size: 150%;
-      margin-bottom: 1em;
-      margin-top: 1em;
-
-    }
-
-    #inputText {
-      width: 100%;
-      font-size: 175%;
-      padding: 5px;
-      background: inherit;
-      color: #eee;
-    }
-
-    #inputText:focus {
-      color: #ffffff;
-    }
-
-    #ContextContainer {
-      position: absolute;
-      left: 0px;
-      top: 0px;
-      color: white;
-    }
-
-    #ContextContainer.shown {
-      background: rgba(0, 0, 0, 0.5);
-      border-radius: 0px 0px 5px 0px;
-    }
-
-    #ContextButton {
-      text-decoration: none;
-      color: lightgrey;
-      font-size: xx-large;
-      cursor: pointer;
-      user-select: none;
-      -moz-user-select: none;
-      padding: 10px 10px;
-      opacity: .75;
-    }
-
-    #ContextButton:focus {
-      outline: none;
-      color: #ffffff;
-      opacity: 1.0;
-    }
-
-    #ContextMenu a {
-      text-decoration: none;
-      color: lightgrey;
-      background: #444;
-      height: 48px;
-      width: 250px;
-      border-radius: 5px;
-      border: 1px solid lightgrey;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 5px 5px;
-      opacity: 1.0;
-    }
-
-    #ContextMenu a:hover {
-      text-decoration: none;
-      background: #666666;
-      color: #ffffff
-    }
-
-    #presplash {
-        position: absolute;
-        top: 0;
-        left: 0;
-        display: block;
-        margin: auto;
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-    }
-
-  </style>
-
-</head>
-
-<body>
-  <canvas id="canvas" oncontextmenu="event.preventDefault()" tabindex=-1></canvas>
-  <div id="overlayDiv"></div>
-
-  <img id="presplash" src="web-presplash.jpg">
-
-  <div id="ContextContainer">
-    <a id="ContextButton">&#8801;</a><br />
-    <div id="ContextMenu" style="display: none;">
-      <input id="ID_SavegamesImport" type="file" onchange="onSavegamesImport(this)" accept="application/zip"
-        style=display:none></input>
-      <a href="javascript:document.getElementById('ID_SavegamesImport').click();">Import Saves</a>
-      <a href="javascript:onSavegamesExport();">Export Saves</a>
-      <a href="javascript:FSDownload('/log.txt', 'text/plain');">Download Log</a>
-      <a href="https://www.renpy.org/" target="_blank">
-          Powered by Ren'Py
-      </a>
-      </span>
-    </div>
-  </div>
-
-  <div id="statusDiv" class="hidden">
-    <div id="statusTextDiv"></div>
-    <progress id="statusProgress" value="0" max="100"></progress>
-  </div>
-
-  <div id="inputDiv" class="hidden">
-    <form id="inputForm">
-      <div id="inputPrompt"></div>
-      <input id="inputText" type="text">
-    </form>
-  </div>
-
-  <script>
-      // The URL to game.zip, relative to the URL of this file.
-      window.gameZipURL = 'game.zip';
-
-      // Register the service worker.
-      if (navigator.serviceWorker) {
-          if (!navigator.serviceWorker.controller) {
-              navigator.serviceWorker.register('./service-worker.js', { updateViaCache: 'all' });
-          }
-      }
-  </script>
-  <script src="renpy-pre.js"></script>
-  <script async type="text/javascript" src="renpy.js"></script>
-</body>
-
-</html>
-
-
-================================================================================
-
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\index.html.symbols
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\manifest.json
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\pwa_catalog.json
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy-pre.js
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy.data
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy.js
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\renpy.wasm
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\service-worker.js
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web\web-presplash.jpg
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke-1.0-dists\nikitaVspeke-1.0-web.zip
 C:\Users\user\Documents\GitHub\niki_speck\project_structure.txt
+C:\Users\user\Documents\GitHub\niki_speck\pwa_catalog.json
+C:\Users\user\Documents\GitHub\niki_speck\renpy-pre.js
+C:\Users\user\Documents\GitHub\niki_speck\renpy.data
+C:\Users\user\Documents\GitHub\niki_speck\renpy.js
+C:\Users\user\Documents\GitHub\niki_speck\renpy.wasm
+C:\Users\user\Documents\GitHub\niki_speck\service-worker.js
 C:\Users\user\Documents\GitHub\niki_speck\structure.py
 
 C:\Users\user\Documents\GitHub\niki_speck\structure.py — содержимое:
@@ -925,3 +925,4 @@ if __name__ == "__main__":
 
 ================================================================================
 
+C:\Users\user\Documents\GitHub\niki_speck\web-presplash.jpg

@@ -1,0 +1,37 @@
+name: Deploy Web Build to GitHub Pages
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'nikitaVspeke-1.0-web/**'   # срабатывает только при изменении билда
+      - '.github/workflows/deploy-web.yml'
+  workflow_dispatch:               # можно запустить вручную
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check web build exists
+        run: |
+          if [ ! -d "nikitaVspeke-1.0-web" ]; then
+            echo "Папка nikitaVspeke-1.0-web не найдена! Загрузи готовый веб-билд."
+            exit 1
+          fi
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: nikitaVspeke-1.0-web/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
