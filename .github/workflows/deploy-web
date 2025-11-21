@@ -1,0 +1,45 @@
+name: Build & Deploy Web
+
+on:
+  push:
+    branches: [ main ]        # или master, как у тебя называется основная ветка
+  workflow_dispatch:          # чтобы можно было запустить вручную
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # нужно для деплоя в ту же ветку
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Ren'Py
+        uses: ioniteio/renpy-action@v1.3
+        with:
+          renpy-version: 8.2.3    # поменяй на свою версию Ren'Py (8.1.3 / 8.2.1 / 8.2.3)
+
+      - name: Build Web version
+        run: |
+          python -m renpy ${{ github.workspace }}/nikitaVspeke launcher build web
+          # или если проект лежит в корне (без отдельной папки nikitaVspeke):
+          # python -m renpy . launcher build web
+
+      - name: Remove old web files (чтобы не накапливался мусор)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          find . -maxdepth 1 ! -name '.' ! -name '.git' ! -name '.github' -exec rm -rf {} +
+
+      - name: Move new web build to root
+        run: |
+          cp -r nikitaVspeke/web/* . || cp -r web/* .
+
+      - name: Commit & Push web build
+        run: |
+          git add .
+          git commit -m "Deploy web build $(date +'%Y-%m-%d %H:%M')" || echo "Nothing to commit"
+          git push origin main --force   # --force перезапишет старый билд (это нормально для Pages)
