@@ -1,4 +1,4 @@
-label scene_after_demoexam_v2:
+label scene_after_demoexam:
 
     scene bg spek_courtyard_morning with fade
     play music audio.bgm fadein 1.5
