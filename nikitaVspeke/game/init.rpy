@@ -54,6 +54,10 @@ image bg spek_stairs:
     "images/spek_stairs.jpg"
     fit "cover"
 
+image bg kabinet:
+    "images/kabinet.jpg"
+    fit "cover"
+
 
 image bg black = Solid("#000000")
 image logo = im.FactorScale("images/logo.png", 0.8)

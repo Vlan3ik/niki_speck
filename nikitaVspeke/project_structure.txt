@@ -1,4 +1,6 @@
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\.gitignore
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\.vscode
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\.vscode\settings.json
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\audio
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\audio\backgroundMusic.mp3
@@ -15,6 +17,7 @@ C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\belarus
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\belarus\normal.png
     └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\dorm_room_morning.jpg
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kabinet.jpg
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\erotic.png
     └── [PNG изображение] erotic.png (бинарный файл, содержимое не копируется)
@@ -118,6 +121,10 @@ image bg spek_stairs:
     "images/spek_stairs.jpg"
     fit "cover"
 
+image bg kabinet:
+    "images/kabinet.jpg"
+    fit "cover"
+
 
 image bg black = Solid("#000000")
 image logo = im.FactorScale("images/logo.png", 0.8)
@@ -153,7 +160,18 @@ screen main_menu():
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\menu.rpyc
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\options.rpyc
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\_tracesave-1-LT1.save
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-1-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-10-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-2-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-3-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-4-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-5-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-6-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-7-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-8-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-9-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\navigation.json
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\persistent
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\intro.rpy
@@ -175,6 +193,100 @@ label scene_intro:
 ================================================================================
 
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\intro.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_after_demoexam.rpy
+
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_after_demoexam.rpy — содержимое:
+label scene_after_demoexam:
+
+    scene bg spek_courtyard_morning with fade
+    play music audio.bgm fadein 1.5
+
+    "Задний двор общаги. Ноябрь. Ветер гоняет пустые пачки от «Прилук» и чей-то реферат по праву. На скамейке спит первокурсник. Классика."
+
+    show nikita normal at left_pos
+    show belarus normal at right_pos with dissolve
+
+    n normal "Ну чё, змагар, сколько на ДЭ схватил по пятибалке?"
+
+    show belarus normal
+    b "…Двойку."
+    n smeh "Бля, а я тройку! Мы с тобой просто короли фронтенда, братан."
+
+    show belarus normal
+    b "…"
+    n normal "Эй, ты чё как мертвый? Обычно ты уже орёшь «Жыве Беларусь» и фоткаешь бело-красно-белый флаг на фоне мусорки."
+
+    show belarus normal
+    b "Юлия Михайловна… поставила мне два… и устроила меня на подработку."
+    n ispug "Куда? В «Пятёрочку» кассиром?"
+    b "Хуже. На склад Озона. Сортировать… навоз."
+    n ispug "…ЧТО?!"
+
+    b "Она сказала дословно: «Если ты, молодой человек, любишь прогуливать мои пары по бухучёту, то будешь теперь каждый вечер до трёх ночи нюхать белорусский премиум-навоз. 10 кубов в смену. Лично проконтролирую»."
+    n grust "Брат… это даже по смоленским меркам перебор."
+
+    b "Она ещё добавила: «А если ещё раз прогуляешь — будешь его вручную в мешки фасовать. Без перчаток. За родину»."
+
+    menu zmagar_sadness:
+        "Попытаться утешить":
+            n normal "Слышь, зато опыт. Напишешь в резюме: «Сортировка органических удобрений, 10 кубов/смена, высокий темп»."
+            b "Никита… я не хочу жить в говне. У меня и так вся жизнь в говне."
+
+        "Предложить бизнес":
+            n "А давай ты его толкать начнёшь? «Белорусский навоз от Змагара — с любовью к родине и ненавистью к Юлии Михайловне». По 500 рэ за кг."
+            b "…А вдруг реально купят?"
+            n smeh "В Смоленске? Да за час разберут."
+
+        "Поржать":
+            n smeh "Представляю: ты в каске Озона, по уши в навозе, а над тобой Юлия Михайловна с журналом: «Быстрее, гражданин Беларусь, у вас норма — 800 кг в час!»"
+            b "Я уже плакал в туалете на складе…"
+
+        "Сравнить с Кейном":
+            n zloy "Слушай, лучше 10 кубов навоза, чем один Кейн в твоей жизни."
+            b "Согласен. Навоз хотя бы потом смоется."
+
+    "Вдруг из-за контейнеров выскакивает Роля с красным флагом и пакетом семечек."
+
+    show rolya normal at center_pos with hpunch
+    r "ТОВАРИЩИ! ДЭ сдан! Пора экспроприировать средства производства у Юлии Михайловны!"
+
+    show nikita zloy
+    n zloy "РОЛЯ, НАХУЙ ИДИ!"
+    b "Сейчас не до революции, товарищ…"
+
+    menu send_rolya_to_kein:
+        "Отправить с миссией":
+            n zloy "Роль, есть боевое задание. Иди в аудиторию 303 и объяви Юлии Михайловне, что мы экспроприируем её навоз в пользу трудящихся студентов!"
+            r "Наконец-то! За Маркса и за Змагара без говна!"
+            hide rolya with moveoutright
+
+        "Жёстко":
+            n zloy "Роля, пиздуй на склад Озона и помоги Змагарy — там 10 кубов навоза, надо переложить в кабинет Юлии Михайловны."
+            b "…Эй, это мой личный ад!"
+
+        "Саркастично":
+            n normal "Иди к Кейну, скажи, что у нас новый спонсор — белорусский навоз. Пусть Vue.js на нём компилирует."
+            r "Это будет самая вонючая революция в истории IT!"
+
+    hide rolya with moveoutright
+    play sound audio.kein_laugh volume 0.6
+
+    n ispug "Мы только что подписали ему смертный приговор."
+    b "Пусть хоть навозом Кейна закидает. Или Юлию Михайловну."
+
+    show nikita smeh
+    n smeh "Ладно, змагар, не грузись. Пошли пивка дерябнем. За тройку, за твою новую карьеру сортировщика говна и за то, что Кейн пока не знает, что его ждёт."
+
+    show belarus normal
+    b "Жыве… хотя уже пох."
+
+    scene bg black with dissolve
+    centered "{size=+15}{color=#ff5555}Где-то на складе Озона Змагар в жилетке со светоотражателями шепчет: «За что мне это…»{/color}{/size}"
+    return
+
+================================================================================
+
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_after_demoexam.rpyc
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy
 
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy — содержимое:
@@ -295,6 +407,7 @@ C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\script.rpy — �
 ﻿label start:
     call scene_intro
     call scene_day1     
+    call scene_after_demoexam
     "Конец первой главы.\nГотовьтесь — дальше будет мясо, Vue.js в неожиданных местах и полный пиздец ;)\n\nВаши идеи в тг @nikita_spek"
     return
 
@@ -452,3 +565,4 @@ C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\lore.md — соде�
 
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\progressive_download.txt
 C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\project_structure.txt
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\traceback.txt
