@@ -1,69 +1,67 @@
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\.gitignore
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\errors.txt
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\00_init.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio\backgroundMusic.mp3
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio\kein_smeh.mp3
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\audio\strahmusic.mp3
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\bytecode-312.rpyb
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\py3analysis.rpyb
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\screens.rpyb
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\cache\shaders.txt
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\gui.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\belarus
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\belarus\normal.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\.gitignore
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\audio
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\audio\backgroundMusic.mp3
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\audio\kein_smeh.mp3
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\audio\strahmusic.mp3
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\cache
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\cache\bytecode-312.rpyb
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\cache\py3analysis.rpyb
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\cache\screens.rpyb
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\cache\shaders.txt
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\gui.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\belarus
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\belarus\normal.png
     └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\dorm_room_morning.jpg
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\erotic.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\dorm_room_morning.jpg
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\erotic.png
     └── [PNG изображение] erotic.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\grus.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\grus.png
     └── [PNG изображение] grus.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\ispug.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\ispug.png
     └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\love.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\love.png
     └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\normal.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\normal.png
     └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\pohot.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\pohot.png
     └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\smeh.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\smeh.png
     └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kein\zloy.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kein\zloy.png
     └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kiselman
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\kiselman\normal.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kiselman
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\kiselman\normal.png
     └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\logo.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\logo.png
     └── [PNG изображение] logo.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\menu_bg.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\menu_bg.png
     └── [PNG изображение] menu_bg.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\grust.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita\grust.png
     └── [PNG изображение] grust.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\ispug.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita\ispug.png
     └── [PNG изображение] ispug.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\love.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita\love.png
     └── [PNG изображение] love.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\normal.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita\normal.png
     └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\pohot.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita\pohot.png
     └── [PNG изображение] pohot.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\smeh.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita\smeh.png
     └── [PNG изображение] smeh.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\nikita\zloy.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\nikita\zloy.png
     └── [PNG изображение] zloy.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\rolya
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\rolya\normal.png
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\rolya
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\rolya\normal.png
     └── [PNG изображение] normal.png (бинарный файл, содержимое не копируется)
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\spek_courtyard_morning.jpg
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\images\spek_stairs.jpg
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\init.rpy
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\spek_courtyard_morning.jpg
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\images\spek_stairs.jpg
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\init.rpy
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\init.rpy — содержимое:
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\init.rpy — содержимое:
 define config.gl2 = True
 
 transform center_pos:
@@ -103,18 +101,25 @@ image kein zloy    = "images/kein/zloy.png"
 image kein pohot   = "images/kein/pohot.png"
 image kein erotic  = "images/kein/erotic.png"
 
-image belarus  = "images/belarus/normal.png"
+image belarus normal  = "images/belarus/normal.png"
 image kiselman = "images/kiselman/normal.png"
-image rolya    = "images/rolya/normal.png"
+image rolya normal = "images/rolya/normal.png"
 
 image bg menu:
     "images/menu_bg.png"
     fit "cover"
+image bg dorm_room_morning:
+    "images/dorm_room_morning.jpg"
+    fit "cover"
+image bg spek_courtyard_morning:
+    "images/spek_courtyard_morning.jpg"
+    fit "cover"
+image bg spek_stairs:
+    "images/spek_stairs.jpg"
+    fit "cover"
+
 
 image bg black = Solid("#000000")
-image bg dorm_room_morning   = "images/dorm_room_morning.jpg"
-image bg spek_courtyard_morning = "images/spek_courtyard_morning.jpg"
-image bg spek_stairs         = "images/spek_stairs.jpg"
 image logo = im.FactorScale("images/logo.png", 0.8)
 
 define audio.bgm = "audio/backgroundMusic.mp3"
@@ -126,12 +131,12 @@ init python:
 
 ================================================================================
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\init.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\libs
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\libs\libs.txt
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\menu.rpy
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\init.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\libs
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\libs\libs.txt
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\menu.rpy
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\menu.rpy — содержимое:
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\menu.rpy — содержимое:
 screen main_menu():
     tag menu
     add "bg menu"
@@ -145,32 +150,15 @@ screen main_menu():
 
 ================================================================================
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\menu.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\options.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\1-1-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-1-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-10-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-6-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-7-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-8-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\_tracesave-9-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-1-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-10-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-2-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-3-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-4-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-5-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-6-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-7-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-8-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\auto-9-LT1.save
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\navigation.json
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\saves\persistent
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\intro.rpy
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\menu.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\options.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\auto-1-LT1.save
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\saves\persistent
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\intro.rpy
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\intro.rpy — содержимое:
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\intro.rpy — содержимое:
 label scene_intro:
     scene black with fade
     pause 1.0
@@ -186,10 +174,10 @@ label scene_intro:
 
 ================================================================================
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\intro.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\intro.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy — содержимое:
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpy — содержимое:
 label scene_day1:
     scene bg black with fade
     play music audio.bgm fadein 2.0
@@ -293,32 +281,29 @@ label scene_day1:
     k smeh "И ты его… не сдашь."
 
     scene bg black with dissolve
-    centered "{size=+20}{color=#8a2be2}ТО БИ КОТИНУЭД…{/color}{/size}"
+    centered "{size=+20}{color=#8a2be2}Продолжение следует...{/color}{/size}"
 
     return
 
 ================================================================================
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\scene_first.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\scenes\test_scene.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\screens.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\script.rpy
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\scenes\scene_day1.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\screens.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\script.rpy
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\script.rpy — содержимое:
-﻿label scene_day1:
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\script.rpy — содержимое:
+﻿label start:
     call scene_intro
-    call scene_day1
-
-    "Конец демо-версии. Дальше будет ещё круче ;)"
+    call scene_day1     
+    "Конец первой главы.\nГотовьтесь — дальше будет мясо, Vue.js в неожиданных местах и полный пиздец ;)\n\nВаши идеи в тг @nikita_spek"
     return
 
 ================================================================================
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\script.rpyc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\structure.py
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\script.rpyc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\structure.py
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\structure.py — содержимое:
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\structure.py — содержимое:
 import os
 import shutil
 
@@ -423,14 +408,14 @@ if __name__ == "__main__":
 
 ================================================================================
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl\None
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl\None\common.rpym
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\game\tl\None\common.rpymc
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\log.txt
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\lore.md
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\tl
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\tl\None
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\tl\None\common.rpym
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\game\tl\None\common.rpymc
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\log.txt
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\lore.md
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\lore.md — содержимое:
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\lore.md — содержимое:
 
 ### Промпт для визуальной новеллы «Никита V Спеке»
 
@@ -465,5 +450,5 @@ C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\lore.md — содерж�
 
 ================================================================================
 
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\project_structure.txt
-C:\Users\user\Documents\GitHub\niki_speck\nikitaVspeke\traceback.txt
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\progressive_download.txt
+C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke\project_structure.txt

@@ -87,7 +87,7 @@ def save_content(file_path, output_file):
 
 # === ЗАПУСК ===
 if __name__ == "__main__":
-    root_directory = r'C:\Users\user\Documents\GitHub\niki_speck'
+    root_directory = r'C:\Users\MAS_1_15\Desktop\nikispek\niki_speck\nikitaVspeke'
     
     print("Удаляем __pycache__...")
     remove_pycache(root_directory)
